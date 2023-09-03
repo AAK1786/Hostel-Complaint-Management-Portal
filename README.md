@@ -1,4 +1,4 @@
-<h1 align =center>Hostel Management WebApp </h1>
+<h1 align =center>Hostel Complaint Management WebApp </h1>
 <p align =center>CodeRelay AMV</p>
 <p align="center">
   <img width="300" src="https://github.com/Vinayak2002/CodeRelay/blob/main2/static/Resources/Hostel-removebg.png" alt="Material Bread logo">
